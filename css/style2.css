@@ -1,0 +1,9 @@
+.imagen {
+    width: 200px;
+    transition: 300ms all ease;
+}
+
+.grande {
+    width: 500px;
+    transition: 300ms all ease;
+}

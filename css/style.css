@@ -1,0 +1,12 @@
+form{
+    border: red 1px;
+    margin: o auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    border: green 1px;
+}
+
